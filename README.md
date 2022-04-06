@@ -5,8 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Run Project
 
-Before starting the work on this  projec, let us indroduse you with the common problems comming with the npm in 
+Before starting the work on this  projec, let us indroduse you with the common problems come with the npm in 
 Vs-code.
+
+First of all we don't need to copy App.js , 
 {1. you may see the error with some dependancies, kindly check all the dependancies needed for this project or you may visit to 
  (https://dev.to/nikhilkumaran/don-t-use-create-react-app-how-you-can-set-up-your-own-reactjs-boilerplate-43l0#:~:text=It%27s%20important%20to%20understand%20the%20things%20that%20need,which%20are%20used%20under%20the%20hood%20by%20react-scripts.)
  2. commanly will see the problem wuth the server sites during installing npm for the project work , 
